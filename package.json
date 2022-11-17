@@ -1,0 +1,31 @@
+{
+  "name": "PikaPika",
+  "version": "2.0.0",
+  "description": "PikaPika bot in discord.js",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Zerbaib",
+  "license": "GNU",
+  "keywords": [
+    "discord",
+    "bot",
+    "discord.js",
+    "discordjs"
+  ],
+  "dependencies": {
+    "discord.js": "^13.12.0",
+    "ms": "^3.0.0-canary.1",
+    "parsec": "^2.0.2"
+  },
+  "engines": {
+    "node": "16.x"
+  },
+  "repository": {
+    "url": "https://github.com/Zerbaib/BotDiscordJS"
+  },
+  "devDependencies": {
+    "node": "^16.9.1"
+  }
+}
